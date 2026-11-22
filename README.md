@@ -3,11 +3,11 @@
   <p>Uma ferramenta completa para gerenciar sons de motores e volumes FMOD no American Truck Simulator e Euro Truck Simulator 2.</p>
   <p><i>A complete tool to manage engine sounds and FMOD volumes in American Truck Simulator and Euro Truck Simulator 2.</i></p>
 
-  <a href="https://modo1.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/SITE_OFICIAL_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
+  <a href="https://meus-softwares-web.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/SITE_OFICIAL_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
   <br><br>
 
   <h2>⬇️ DOWNLOAD / BAIXAR PROGRAMA</h2>
-  <a href="https://github.com/Modo1-Br/Gerenciador_de_Motores/releases/latest/download/Gerenciador_de_Audio.zip" target="_blank">
+  <a href="https://github.com/Modo1-Br/Gerenciador_de_Audio/releases/latest/download/Gerenciador_de_Audio.zip" target="_blank">
     <img src="https://img.shields.io/badge/BAIXAR_AGORA_%2F_DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
   </a>
   <p><b>🇧🇷 Instruções:</b> Clique no botão acima para baixar. Após o download, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
@@ -70,14 +70,14 @@ Queremos ver o nosso software no seu canal! Teste o **Gerenciador de Áudio** em
 Para evitar excesso de pedidos, temos algumas regrinhas básicas:
 - Seu canal/perfil deve ter foco em jogos de simulação (ETS-2/ATS).
 - Você deve gravar um vídeo review ou mostrar o uso do programa em uma live com engajamento real.
-- Entre em contato conosco através do nosso [Site Oficial](https://modo1.pythonanywhere.com/) com o link do seu vídeo para reivindicarmos sua chave vitalícia!
+- Entre em contato conosco através do nosso [Site Oficial](https://meus-softwares-web.vercel.app/) com o link do seu vídeo para reivindicarmos sua chave vitalícia!
 
 **🇺🇸 Are you an ETS-2 / ATS Youtuber or Streamer?**
 We want to see our software on your channel! Showcase the **Audio Manager** in a video or live stream and receive a free **Official Lifetime Partner License** as a gift!
 To avoid spam, we have a few basic requirements:
 - Your channel/profile must be focused on simulation games (ETS-2/ATS).
 - You must record a video review or showcase the software during a stream with real engagement.
-- Contact us through our [Official Website](https://modo1.pythonanywhere.com/) with a link to your video to claim your lifetime key!
+- Contact us through our [Official Website](https://meus-softwares-web.vercel.app/) with a link to your video to claim your lifetime key!
 
 ---
 
