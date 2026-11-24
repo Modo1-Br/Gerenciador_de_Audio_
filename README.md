@@ -9,7 +9,7 @@
   <br><br>
 
   <h2>⬇️ DOWNLOAD & INSTALADOR OFICIAL / DOWNLOAD & INSTALLER</h2>
-  <a href="https://github.com/Modo1-Br/Gerenciador_de_Audio/releases/latest/download/Gerenciador_de_Audio.zip" target="_blank">
+  <a href="https://github.com/Modo1-Br/Gerenciador_de_Audio_/releases/latest/download/Gerenciador_de_Audio.zip" target="_blank">
     <img src="https://img.shields.io/badge/BAIXAR_AGORA_%2F_DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
   </a>
   <p><b>🇧🇷 Instruções de Instalação:</b> Clique no botão acima para baixar. Após baixar o pacote <b>Gerenciador_de_Audio.zip</b>, basta descompactar e executar o <b>Instalador Oficial Windows</b>. O assistente instalará o programa automaticamente no seu sistema, criará os atalhos na Área de Trabalho e Menu Iniciar, e cuidará de toda a configuração.</p>
