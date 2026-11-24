@@ -50,7 +50,7 @@ O **Gerenciador de Áudio** é o software definitivo para os jogadores de **Amer
 - 🎛️ **Controle Total de Áudio & FMOD:** Selecione sons gravados de motores reais, ouça prévias sonoras ao vivo no player embutido e ajuste volumes de motor, escapamento, freio motor e cabine sem mexer em arquivos de texto.
 - ⚙️ **Instalação e Sincronização Automática:** Detecta automaticamente a pasta dos seus jogos na Steam e instala os plugins necessários de forma transparente.
 - 🏆 **Hall da Fama Oficial:** Dispute posições e registre suas horas de simulação no ranking oficial online da comunidade Modo1.Apps.
-- 🛡️ **Auditoria de Segurança VirusTotal:** 100% limpo (0/67 motores) pelas maiores autoridades mundiais de cibersegurança (Microsoft Defender, Kaspersky, BitDefender, CrowdStrike Falcon).
+- 🛡️ **Auditoria de Segurança VirusTotal:** 100% limpo (0/60+ motores) pelas maiores autoridades mundiais de cibersegurança (Microsoft Defender, Kaspersky, BitDefender, CrowdStrike Falcon).
 - ☁️ **Atualizações em Tempo Real pela Nuvem:** Validação segura de atualizações e novidades via Supabase Cloud sem necessidade de reconfiguração manual.
 
 ---
@@ -66,7 +66,7 @@ The **Audio Manager** is the definitive software for **American Truck Simulator 
 - 🎛️ **Total Audio & FMOD Control:** Select sounds recorded from real engines, listen to live previews with the built-in player, and adjust engine, exhaust, turbo, Jake brake, and interior volumes without manual config editing.
 - ⚙️ **Automatic Steam Detection:** Automatically identifies your Steam game installation directory and sets up the required audio plugins in seconds.
 - 🏆 **Official Hall of Fame:** Compete on real-time community leaderboards and showcase your simulated driving hours.
-- 🛡️ **Cybersecurity Audited (VirusTotal 0/67):** 100% clean across all major global security vendors (Microsoft Defender, Kaspersky, BitDefender, CrowdStrike Falcon).
+- 🛡️ **Cybersecurity Audited (VirusTotal 0/60+):** 100% clean across all major global security vendors (Microsoft Defender, Kaspersky, BitDefender, CrowdStrike Falcon).
 - ☁️ **Cloud Synchronization:** Secure cloud updates and version checks powered by Supabase Cloud.
 
 ---
