@@ -1,17 +1,19 @@
 <div align="center">
   <h1>🚚 Gerenciador de Áudio (ATS / ETS-2)</h1>
-  <p>Uma ferramenta completa para gerenciar sons de motores e volumes FMOD no American Truck Simulator e Euro Truck Simulator 2.</p>
-  <p><i>A complete tool to manage engine sounds and FMOD volumes in American Truck Simulator and Euro Truck Simulator 2.</i></p>
+  <p>Uma ferramenta completa e global para gerenciar sons de motores e volumes FMOD no American Truck Simulator e Euro Truck Simulator 2.</p>
+  <p><i>A complete, global tool to manage engine sounds and FMOD volumes in American Truck Simulator and Euro Truck Simulator 2.</i></p>
 
-  <a href="https://meus-softwares-web.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/SITE_OFICIAL_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
+  <a href="https://meus-softwares-web.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/SITE_OFICIAL_MODO1.APPS-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Oficial" /></a>
+  <a href="https://virustotal.com/" target="_blank"><img src="https://img.shields.io/badge/VirusTotal-0%2F67%20Limpo-10b981?style=for-the-badge&logo=shield&logoColor=white" alt="VirusTotal 100% Limpo" /></a>
+  <a href="https://meus-softwares-web.vercel.app/#ranking" target="_blank"><img src="https://img.shields.io/badge/Hall_da_Fama-Ranking_Online-f59e0b?style=for-the-badge&logo=trophy&logoColor=white" alt="Hall da Fama" /></a>
   <br><br>
 
-  <h2>⬇️ DOWNLOAD / BAIXAR PROGRAMA</h2>
+  <h2>⬇️ DOWNLOAD & INSTALADOR OFICIAL / DOWNLOAD & INSTALLER</h2>
   <a href="https://github.com/Modo1-Br/Gerenciador_de_Audio/releases/latest/download/Gerenciador_de_Audio.zip" target="_blank">
     <img src="https://img.shields.io/badge/BAIXAR_AGORA_%2F_DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
   </a>
-  <p><b>🇧🇷 Instruções:</b> Clique no botão acima para baixar. Após o download, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
-  <p><b>🇺🇸 Instructions:</b> Click the button above to download. After downloading, simply <b>unzip the .zip file</b> and run the program (no installation required).</p>
+  <p><b>🇧🇷 Instruções de Instalação:</b> Clique no botão acima para baixar. Após baixar o pacote <b>Gerenciador_de_Audio.zip</b>, basta descompactar e executar o <b>Instalador Oficial Windows</b>. O assistente instalará o programa automaticamente no seu sistema, criará os atalhos na Área de Trabalho e Menu Iniciar, e cuidará de toda a configuração.</p>
+  <p><b>🇺🇸 Installation Instructions:</b> Click the button above to download. After downloading <b>Gerenciador_de_Audio.zip</b>, simply unzip and run the <b>Official Windows Installer</b>. The setup wizard will automatically install the program on your system, create Desktop and Start Menu shortcuts, and handle all configurations.</p>
   <br>
 
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -39,27 +41,33 @@
 
 ## 🇧🇷 Sobre o Projeto (About in Portuguese)
 
-O **Gerenciador de Áudio** é o aplicativo definitivo para os jogadores de **American Truck Simulator (ATS)** e **Euro Truck Simulator 2 (ETS-2)** que buscam a melhor experiência sonora. Com uma interface moderna e amigável, ele permite gerenciar sons de motores, instalar plugins FMOD e ajustar volumes de forma rápida e segura.
+O **Gerenciador de Áudio** é o software definitivo para os jogadores de **American Truck Simulator (ATS)** e **Euro Truck Simulator 2 (ETS-2)** que buscam realismo sonoro máximo. Com interface gráfica moderna, motor de alta performance e suporte nativo global, ele permite gerenciar sons de motores, instalar plugins FMOD e equalizar volumes com segurança e praticidade.
 
 ### ✨ Principais Recursos
-- 🚚 **Suporte a Múltiplos Jogos:** Funciona perfeitamente com o American Truck Simulator e o Euro Truck Simulator 2. A troca de jogos é feita em um clique!
-- 🎛️ **Controle Total de Áudio:** Selecione os sons mais incríveis, ouça prévias e altere os volumes do motor, escapamento e turbo.
-- ⚙️ **Instalação Automática:** Esqueça processos complicados manuais! O programa encontra a pasta do seu jogo na Steam e instala o que for necessário automaticamente.
-- 🎨 **Interface Moderna e Bilíngue:** Design limpo e intuitivo com suporte completo para Português (PT-BR) e Inglês (US), além de temas dinâmicos (Claro/Escuro).
-- ☁️ **Atualizações pela Nuvem:** Suas licenças e atualizações são validadas de forma transparente na nuvem para garantir que você sempre tenha a melhor versão.
+- 🌐 **Globalização Total (31 Idiomas Steam):** Internacionalização completa com suporte nativo a 31 idiomas oficiais da plataforma Steam, incluindo seletor dinâmico com bandeiras e tradução instantânea de todas as telas.
+- 📦 **Instalador Oficial Windows:** Novo instalador executável profissional com assistente moderno, criação automática de atalhos (Desktop / Menu Iniciar), desinstalador limpo no Painel de Controle e preservação total de configurações nas atualizações.
+- 🚚 **Suporte a Múltiplos Jogos:** Funciona perfeitamente com American Truck Simulator e Euro Truck Simulator 2. A troca de jogos é feita em um único clique!
+- 🎛️ **Controle Total de Áudio & FMOD:** Selecione sons gravados de motores reais, ouça prévias sonoras ao vivo no player embutido e ajuste volumes de motor, escapamento, freio motor e cabine sem mexer em arquivos de texto.
+- ⚙️ **Instalação e Sincronização Automática:** Detecta automaticamente a pasta dos seus jogos na Steam e instala os plugins necessários de forma transparente.
+- 🏆 **Hall da Fama Oficial:** Dispute posições e registre suas horas de simulação no ranking oficial online da comunidade Modo1.Apps.
+- 🛡️ **Auditoria de Segurança VirusTotal:** 100% limpo (0/67 motores) pelas maiores autoridades mundiais de cibersegurança (Microsoft Defender, Kaspersky, BitDefender, CrowdStrike Falcon).
+- ☁️ **Atualizações em Tempo Real pela Nuvem:** Validação segura de atualizações e novidades via Supabase Cloud sem necessidade de reconfiguração manual.
 
 ---
 
 ## 🇺🇸 About the Project (About in English)
 
-The **Audio Manager** is the ultimate application for **American Truck Simulator (ATS)** and **Euro Truck Simulator 2 (ETS-2)** players seeking the best audio experience. With a modern and user-friendly interface, it allows you to easily manage engine sounds, install FMOD plugins, and adjust volumes safely and quickly.
+The **Audio Manager** is the definitive software for **American Truck Simulator (ATS)** and **Euro Truck Simulator 2 (ETS-2)** players seeking the ultimate acoustic realism. Featuring a modern graphical interface, high-performance engine, and full global support, it allows you to effortlessly manage engine sounds, install FMOD plugins, and fine-tune volumes safely and quickly.
 
 ### ✨ Key Features
-- 🚚 **Multi-Game Support:** Works flawlessly with both American Truck Simulator and Euro Truck Simulator 2. Switch between games with a single click!
-- 🎛️ **Total Audio Control:** Select the most amazing sounds, listen to previews, and adjust engine, exhaust, and turbo volumes.
-- ⚙️ **Automatic Installation:** Forget complicated manual setups! The program automatically detects your Steam game folder and installs everything you need.
-- 🎨 **Modern Bilingual Interface:** Clean and intuitive design with full support for Portuguese (PT-BR) and English (US), plus dynamic Dark/Light themes.
-- ☁️ **Cloud Updates:** Your licenses and updates are seamlessly validated in the cloud to ensure you always have the best version.
+- 🌐 **Full Globalization (31 Steam Languages):** Complete internationalization with native support for 31 official Steam languages, dynamic flag selector, and real-time translation across all modules and devlogs.
+- 📦 **Official Windows Installer:** Brand new professional setup wizard with automatic shortcut creation (Desktop / Start Menu), clean Control Panel uninstaller, and complete settings preservation across updates.
+- 🚚 **Multi-Game Support:** Seamless 1-click switching between American Truck Simulator and Euro Truck Simulator 2.
+- 🎛️ **Total Audio & FMOD Control:** Select sounds recorded from real engines, listen to live previews with the built-in player, and adjust engine, exhaust, turbo, Jake brake, and interior volumes without manual config editing.
+- ⚙️ **Automatic Steam Detection:** Automatically identifies your Steam game installation directory and sets up the required audio plugins in seconds.
+- 🏆 **Official Hall of Fame:** Compete on real-time community leaderboards and showcase your simulated driving hours.
+- 🛡️ **Cybersecurity Audited (VirusTotal 0/67):** 100% clean across all major global security vendors (Microsoft Defender, Kaspersky, BitDefender, CrowdStrike Falcon).
+- ☁️ **Cloud Synchronization:** Secure cloud updates and version checks powered by Supabase Cloud.
 
 ---
 
@@ -70,7 +78,7 @@ Queremos ver o nosso software no seu canal! Teste o **Gerenciador de Áudio** em
 Para evitar excesso de pedidos, temos algumas regrinhas básicas:
 - Seu canal/perfil deve ter foco em jogos de simulação (ETS-2/ATS).
 - Você deve gravar um vídeo review ou mostrar o uso do programa em uma live com engajamento real.
-- Entre em contato conosco através do nosso [Site Oficial](https://meus-softwares-web.vercel.app/) com o link do seu vídeo para reivindicarmos sua chave vitalícia!
+- Entre em contato conosco através do nosso [Site Oficial](https://meus-softwares-web.vercel.app/) com o link do seu vídeo para solicitar sua chave vitalícia!
 
 **🇺🇸 Are you an ETS-2 / ATS Youtuber or Streamer?**
 We want to see our software on your channel! Showcase the **Audio Manager** in a video or live stream and receive a free **Official Lifetime Partner License** as a gift!
@@ -90,4 +98,3 @@ O Gerenciador de Áudio atua como uma interface visual (GUI) avançada para faci
 The Audio Manager acts as an advanced graphical user interface (GUI) to make configuring and using his plugin much easier.*
 
 **Plugin Repository:** [dariowouters/ts-fmod-plugin](https://github.com/dariowouters/ts-fmod-plugin/releases)
-
